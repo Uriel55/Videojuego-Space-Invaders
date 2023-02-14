@@ -24,3 +24,8 @@ y podrá seguir acumulando puntos eliminando enemigos comunes hasta que aparezca
 ![Captura de pantalla_20230214_033655](https://user-images.githubusercontent.com/101745244/218871877-531803e0-7725-4653-9e0e-434cdb5e0bd4.png)
 ![Captura de pantalla_20230214_034923](https://user-images.githubusercontent.com/101745244/218871944-9d921a32-2038-45db-9b65-686ec63f89cf.png)
 ![Captura de pantalla_20230214_035010](https://user-images.githubusercontent.com/101745244/218871954-2da11105-6df7-4039-b2c5-6186f2c2a6ad.png)
+![Captura de pantalla_20230214_035047](https://user-images.githubusercontent.com/101745244/218872400-26b0fbe9-ba9f-48ae-b81a-6827524a58f4.png)
+![Captura de pantalla_20230214_035115](https://user-images.githubusercontent.com/101745244/218872429-6ffc0af8-314b-4c81-a5e2-68473262d247.png)
+![Captura de pantalla_20230214_033736](https://user-images.githubusercontent.com/101745244/218872492-63b7acaf-7b16-4613-a1d3-aba5b0324932.png)
+![Captura de pantalla_20230214_034418](https://user-images.githubusercontent.com/101745244/218872507-8f8eb6da-72e4-4714-857b-61d985361951.png)
+![Captura de pantalla_20230214_034656](https://user-images.githubusercontent.com/101745244/218872522-7421ef1f-8e2b-4047-85de-6ac665509667.png)
