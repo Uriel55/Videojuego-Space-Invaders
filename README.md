@@ -19,3 +19,8 @@ En el caso del jugador, perderá el juego si deja que su vida llegue al límite 
 En el caso de los Jefes, desaparecerán luego de derrotarlos al atinarles los suficientes ataques para que su vida llegue al límite mínimo, 
 al derrotar a un jefe, el jugador recibe un bonus de 30 puntos extra para su puntaje, 
 y podrá seguir acumulando puntos eliminando enemigos comunes hasta que aparezca el siguiente Jefe 
+
+
+![Captura de pantalla_20230214_033655](https://user-images.githubusercontent.com/101745244/218871877-531803e0-7725-4653-9e0e-434cdb5e0bd4.png)
+![Captura de pantalla_20230214_034923](https://user-images.githubusercontent.com/101745244/218871944-9d921a32-2038-45db-9b65-686ec63f89cf.png)
+![Captura de pantalla_20230214_035010](https://user-images.githubusercontent.com/101745244/218871954-2da11105-6df7-4039-b2c5-6186f2c2a6ad.png)
